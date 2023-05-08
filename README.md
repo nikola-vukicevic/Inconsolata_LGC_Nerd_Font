@@ -9,4 +9,4 @@ Features:
 
 Patch made with Font Forge.
 
-All the previous contributors mentioned in the license file (most notably, Ralph Levin, the original author). 
+All the previous contributors mentioned in the license file (most notably, Raph Levien, the original author). 
