@@ -1,6 +1,6 @@
 # Inconsolata_LGC_Nerd_Font
 
-Inconsolata LGC Nerd Font with different metrics and some alignments (braces, parenthesis etc).
+Inconsolata LGC Nerd Font with different metrics, some modifications (tilde, backtick) and some alignments (braces, parenthesis).
 
 Features:
 
